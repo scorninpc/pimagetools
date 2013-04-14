@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/65/trunk/databases
+END
+mysql.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/64/trunk/databases/mysql.class.php
+END
+sqlite.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/65/trunk/databases/sqlite.class.php
+END

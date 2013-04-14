@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/120/trunk
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/LICENSE
+END
+Fabula.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/121/trunk/Fabula.class.php
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/INSTALL
+END
+Changelog
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/121/trunk/Changelog
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/70/trunk/MAINTAINERS
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/70/trunk/CREDITS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2/trunk/README
+END
+COPYING.LGPLv3
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/COPYING.LGPLv3
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/120/trunk/tools/templates
+END
+form.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/120/trunk/tools/templates/form.tpl
+END
+init.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/120/trunk/tools/templates/init.tpl
+END
+interface.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/120/trunk/tools/templates/interface.tpl
+END

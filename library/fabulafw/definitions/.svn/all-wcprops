@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/120/trunk/definitions
+END
+Atk.definitions.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/120/trunk/definitions/Atk.definitions.php
+END
+Pango.definitions.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/120/trunk/definitions/Pango.definitions.php
+END
+Gdk.definitions.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/120/trunk/definitions/Gdk.definitions.php
+END
+Gtk.definitions.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/120/trunk/definitions/Gtk.definitions.php
+END
+Glade.definitions.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/120/trunk/definitions/Glade.definitions.php
+END
+GObject.definitions.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/120/trunk/definitions/GObject.definitions.php
+END

@@ -1,0 +1,25 @@
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+indent_mode=2
+
+[project]
+name=pimagetools
+base_path=/home/scorninpc/Projetos/projetos/pimagetools/
+make_in_base_path=false
+description=
+run_cmd=php /home/scorninpc/Projetos/projetos/pimagetools/pImageTools.php
+
+[files]
+current_page=0
+FILE_NAME_0=593;PHP;0;16;1;1;0;/home/scorninpc/Projetos/projetos/pimagetools/frmMain.php;0
+FILE_NAME_1=270;PHP;0;16;1;1;0;/home/scorninpc/Projetos/projetos/pimagetools/pImageTools.php;0
+FILE_NAME_2=1346;PHP;0;16;1;1;0;/home/scorninpc/Projetos/projetos/pimagetools/interfaces/frmMain.interface.php;0
+FILE_NAME_3=1689;PHP;0;16;1;1;0;/home/scorninpc/Projetos/projetos/pimagetools/frmConvert.php;0
+FILE_NAME_4=1138;PHP;0;16;1;1;0;/home/scorninpc/Projetos/projetos/pimagetools/interfaces/frmConvert.interface.php;0
+FILE_NAME_5=12216;PHP;0;16;1;1;0;/home/scorninpc/Projetos/projetos/old/Fabula IDE/Arquivos/projetos_teste/makeThumbs/frmPrincipal.php;0
+FILE_NAME_6=8328;PHP;0;16;1;1;0;/home/scorninpc/Projetos/projetos/old/Fabula IDE/Arquivos/projetos_teste/makeThumbs/interfaces/frmPrincipal.interface.php;0
+FILE_NAME_7=2206;PHP;0;16;1;1;0;/home/scorninpc/Projetos/projetos/pimagetools/library/fabulafw/widgets/FFWComboBox.widget.php;0
